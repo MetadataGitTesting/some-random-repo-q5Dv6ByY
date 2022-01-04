@@ -1,0 +1,22 @@
+name: cleo.rice
+description: User fork
+version: 1
+author: kittie.stokes@yahoo.com
+workflows:
+  workflows/W1:
+    name: W1
+    description: Really solid info
+    author: kittie.stokes@yahoo.com
+    mode: batch
+    language: scala
+    createdAt: '2022-01-04 21:52:24'
+    datasets:
+      inputs: []
+      outputs: []
+datasets: {}
+schedules:
+  schedules/Erik_Lind:
+    name: Erik_Lind
+    description: Really solid info
+    createdAt: '2022-01-04 21:52:25'
+    author: kittie.stokes@yahoo.com
